@@ -10,7 +10,7 @@
 <a href="https://leetcode.com/u/cYaNpJjt1g/"><img src="https://img.shields.io/badge/LeetCode-Practice-0f172a?style=flat-square&logo=leetcode&logoColor=white&labelColor=0f172a" /></a>
 <a href="https://www.hackerrank.com/profile/dhanvanth_2301"><img src="https://img.shields.io/badge/HackerRank-Profile-0f172a?style=flat-square&logo=hackerrank&logoColor=white&labelColor=0f172a" /></a>
 <a href="https://www.kaggle.com/dhanvanth007"><img src="https://img.shields.io/badge/Kaggle-Notebooks-0f172a?style=flat-square&logo=kaggle&logoColor=white&labelColor=0f172a" /></a>
-<a href="[https://drive.google.com/drive/folders/1NHpWzIUhfizsSWnxwtC_k7B8EF8LMcUY](https://drive.google.com/file/d/1uFd3X1hAjSMKiXXCTzq0_xnV_091yGa8/view?usp=sharing)"><img src="https://img.shields.io/badge/Resume-View-0f172a?style=flat-square&logo=googledrive&logoColor=white&labelColor=0f172a" /></a>
+<a href="[https://drive.google.com/drive/folders/1NHpWzIUhfizsSWnxwtC_k7B8EF8LMcUY](https://drive.google.com/file/d/1uFd3X1hAjSMKiXXCTzq0_xnV_091yGa8)"><img src="https://img.shields.io/badge/Resume-View-0f172a?style=flat-square&logo=googledrive&logoColor=white&labelColor=0f172a" /></a>
 
 <br/><br/>
 
