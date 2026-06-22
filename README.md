@@ -5,7 +5,7 @@
 <br/>
 
 <a href="https://github.com/Dhanvanth23"><img src="https://img.shields.io/badge/GitHub-Dhanvanth23-0f172a?style=flat-square&logo=github&logoColor=white&labelColor=0f172a" /></a>
-<a href="https://linkedin.com/in/REPLACE-WITH-YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Connect-0f172a?style=flat-square&logo=linkedin&logoColor=white&labelColor=0f172a" /></a>
+<a href="https://www.linkedin.com/in/dhanvanthkumar23/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0f172a?style=flat-square&logo=linkedin&logoColor=white&labelColor=0f172a" /></a>
 <a href="mailto:dhanvanth.2301@gmail.com"><img src="https://img.shields.io/badge/Email-Reach_Out-0f172a?style=flat-square&logo=gmail&logoColor=white&labelColor=0f172a" /></a>
 <a href="https://leetcode.com/u/cYaNpJjt1g/"><img src="https://img.shields.io/badge/LeetCode-Practice-0f172a?style=flat-square&logo=leetcode&logoColor=white&labelColor=0f172a" /></a>
 <a href="https://www.hackerrank.com/profile/dhanvanth_2301"><img src="https://img.shields.io/badge/HackerRank-Profile-0f172a?style=flat-square&logo=hackerrank&logoColor=white&labelColor=0f172a" /></a>
@@ -174,7 +174,7 @@ The navigation stack for an autonomous mobile robot, handling real-time mapping,
 ### Open to AI/ML Engineering and Applied AI roles
 
 <a href="https://github.com/Dhanvanth23"><img src="https://img.shields.io/badge/GitHub-0f172a?style=flat-square&logo=github&logoColor=white" /></a>
-<a href="https://linkedin.com/in/REPLACE-WITH-YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0f172a?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/dhanvanthkumar23/"><img src="https://img.shields.io/badge/LinkedIn-0f172a?style=flat-square&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:dhanvanth.2301@gmail.com"><img src="https://img.shields.io/badge/Email-0f172a?style=flat-square&logo=gmail&logoColor=white" /></a>
 
 </div>
